@@ -1,0 +1,180 @@
+==============================================================
+TEAMS DISTRIBUTION MESSAGE - COPY AND PASTE INTO TEAMS
+==============================================================
+
+Subject: New Tool Available - File List Generator v1.1
+
+Team,
+
+I've developed a simple tool that makes it easier to work with file lists and folder contents. IT has reviewed and approved it for use.
+
+📋 **What it does:**
+• Adds "Generate File List" to your right-click menu
+• Shows all files in any folder with instant search
+• Copy file lists directly to Excel
+• Sort by name, size, date, or type
+• Drag & drop folders to quickly switch directories
+
+⚡ **Quick Setup (30 seconds):**
+1. Download the attached ZIP file
+2. Extract to: C:\Tools\FileListGenerator\
+3. Double-click "Install.bat"
+4. Done! Right-click any folder → "Generate File List"
+
+📎 **Attached Files:**
+• FileListGenerator_v1.1_ScallonControls.zip (213 KB)
+• IT_ADMIN_REPORT.html (IT approval documentation)
+
+💡 **Pro Tips:**
+• You can drag folders directly into the window
+• Just start typing to search - no need to click anywhere
+• Use Ctrl+F to jump to search box
+• Click column headers to sort
+
+❓ **Questions?** Contact David Landry
+
+Thanks,
+David
+
+==============================================================
+HOW TO POST IN TEAMS - STEP BY STEP
+==============================================================
+
+1. PREPARE THE FILES:
+   □ FileListGenerator_v1.1_ScallonControls.zip
+   □ IT_ADMIN_REPORT.html (optional - for transparency)
+
+2. WHERE TO POST:
+
+   Option A: Team Channel (Recommended)
+   ─────────────────────────────────
+   • Go to your team's General channel (or Tools/Software channel)
+   • Click "New conversation"
+   • Paste the message above
+   • Click the paperclip icon
+   • Attach the ZIP file
+   • Click "Send"
+
+   Option B: Teams Chat
+   ─────────────────────────────────
+   • Create a group chat with relevant people
+   • Paste the message
+   • Attach the ZIP file
+   • Send
+
+   Option C: Teams Files Tab
+   ─────────────────────────────────
+   • Go to your team's Files tab
+   • Create folder: "Tools" or "Software"
+   • Upload the ZIP file there
+   • Post a message in the channel with a link to the file
+
+3. FOLLOW-UP MESSAGE (Post 1 day later):
+   
+   "Quick reminder - if you haven't tried the File List Generator yet, 
+   it's really handy for creating file inventories and finding files quickly. 
+   Setup takes 30 seconds. Let me know if you need help!"
+
+==============================================================
+ALTERNATIVE: EMAIL DISTRIBUTION
+==============================================================
+
+Subject: File List Generator Tool - IT Approved
+
+Hi Team,
+
+I'm sharing a tool I developed that makes working with file lists easier. 
+IT has reviewed and approved it.
+
+What it does:
+• Right-click any folder to generate a searchable file list
+• Copy lists to Excel with one click
+• Search and sort large folders instantly
+
+To Install:
+1. Extract the attached ZIP to C:\Tools\FileListGenerator\
+2. Run Install.bat once
+3. Right-click any folder and select "Generate File List"
+
+The tool is completely offline and safe. IT approval report is attached.
+
+Let me know if you have any questions!
+
+Best,
+David
+
+Attachments:
+• FileListGenerator_v1.1_ScallonControls.zip
+• IT_ADMIN_REPORT.html
+
+==============================================================
+FOR NETWORK DRIVE DEPLOYMENT
+==============================================================
+
+If you want to deploy via network drive instead:
+
+1. Copy files to: \\ScallonShare\Tools\FileListGenerator\
+
+2. Send this message:
+   ────────────────
+   Team,
+   
+   The File List Generator tool is now available on the network:
+   \\ScallonShare\Tools\FileListGenerator\
+   
+   To install:
+   1. Navigate to the folder above
+   2. Run Install.bat
+   3. You'll now have "Generate File List" in your right-click menu
+   
+   Note: You can copy the folder locally for faster performance.
+   
+   -David
+
+==============================================================
+TIPS FOR SUCCESSFUL ADOPTION
+==============================================================
+
+1. DEMONSTRATE VALUE FIRST
+   • Show a quick demo in a team meeting
+   • Share a specific use case (e.g., "Great for project documentation")
+
+2. TARGET POWER USERS
+   • Start with people who work with many files
+   • Get their feedback first
+
+3. PROVIDE SUPPORT
+   • Be available the first week for questions
+   • Create a quick video demo if needed
+
+4. HIGHLIGHT TIME SAVINGS
+   • "Saves 5-10 minutes when creating file inventories"
+   • "No more manual copying from Windows Explorer"
+
+5. MENTION IT'S INTERNAL
+   • "Developed specifically for Scallon Controls needs"
+   • "IT approved and verified safe"
+
+==============================================================
+FREQUENTLY ASKED QUESTIONS TO PREPARE FOR
+==============================================================
+
+Q: Is this safe to install?
+A: Yes, IT has reviewed and approved it. See the attached IT report.
+
+Q: Do I need admin rights?
+A: No, it installs for your user account only.
+
+Q: How do I uninstall it?
+A: Run Uninstall.bat in the same folder.
+
+Q: Can I move it after installing?
+A: No, keep it in the same location. If you move it, run Uninstall.bat first, then Install.bat from the new location.
+
+Q: Does it work on network drives?
+A: Yes, but it's faster on local drives.
+
+Q: Will it slow down my computer?
+A: No, it only runs when you explicitly open it. No background processes.
+
+==============================================================

@@ -1,0 +1,37 @@
+# Rust build artifacts
+/target/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Distribution binaries (keep source files but exclude large binaries)
+*.exe
+*.zip
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Keep important batch files and documentation
+!FileListGenerator_v1.1/*.bat
+!FileListGenerator_v1.1/*.txt
+!FileListGenerator_v1.1/*.html
